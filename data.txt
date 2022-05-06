@@ -1,8 +1,5 @@
 Hello git
 This is my data
-<<<<<<< HEAD
-
-Aliou added this line
-=======
 this is my second line
->>>>>>> 0848661f5ae3acc388c776967b70ffadc4e6604f
+Django
+
